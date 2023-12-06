@@ -1,6 +1,6 @@
 {
   "name": "@viewsonic-mvb/nest-oidc-provider",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "oidc-provider module for Nest framework (node.js)",
   "author": "Adrian Cerbaro <adriancerbaro@gmail.com>",
   "license": "MIT",
